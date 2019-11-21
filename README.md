@@ -1,1 +1,3 @@
-# open-api
+# [Bitfree-official-API-docs](https://github.com/BitfreeEX/open-api/blob/master/api/us_en/api_doc_en.md)
+
+# [Bitfree官方API文档](https://github.com/BitfreeEX/open-api/blob/master/api/zh_cn/api_doc_cn.md)
